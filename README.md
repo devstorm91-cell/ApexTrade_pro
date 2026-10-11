@@ -42,6 +42,9 @@ Repository: https://github.com/devstorm91-cell/ApexTrade_pro
 1.Shreeram
    Role: Database Architecture & Concurrency Specialist
 
+2. Sai Abhishek
+   Role: Backend Architecture, Async API & Data pipelines   
+
 2.Bhagya
    Role: Database Triggers, Audit Logging & Window Analytics
 
