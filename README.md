@@ -39,7 +39,14 @@ Repository: https://github.com/devstorm91-cell/ApexTrade_pro
 
 ## 👥 Team Members
 
-_Add the names, GitHub profiles, and contributions of the project team members here._
+1.Shreeram
+   Role: Database Architecture & Concurrency Specialist
+
+2.Bhagya
+   Role: Database Triggers, Audit Logging & Window Analytics
+
+3.Aditi
+   UI/UX Engineer, Client State and Integration 
 
 ## 🔮 Future Improvements
 
